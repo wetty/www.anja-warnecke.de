@@ -1,0 +1,18 @@
+# Site navigation links
+main:
+  - title: "Home"
+    url: /
+  - title: "Biologie"
+    url: /biologie/
+  - title: "Chemie"
+    url: /chemie/
+  - title: "Kochen"
+    url: /kochen/
+  - title: "Kunst"
+    url: /kunst/
+  - title: "Projekte"
+    url: /projekte/
+  - title: "Impressum"
+    url: /about/
+  - title: "Datenschutz"
+    url: /datenschutzerklaerung/
