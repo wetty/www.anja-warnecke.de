@@ -1,5 +1,5 @@
 <li>
-<b>{{ include.file.basename }}</b><br>
+<b>{{ include.file.basename | replace: "_", " " }}</b><br>
 
 Letzte Änderung: {{ include.file.modified_time }}<br>
 
