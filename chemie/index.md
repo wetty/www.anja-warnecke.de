@@ -2,7 +2,7 @@
 title: Chemie
 ---
 
-Hier findet Ihr alle Dokumente zur Chemie:
+Hier findet Ihr alle Dokumente zu den folgenden Chemie Lernfeldern:
 
 - [Lernfeld 2](/chemie/lernfeld_2/)
 - [Lernfeld 4](/chemie/lernfeld_4/)
