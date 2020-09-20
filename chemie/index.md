@@ -9,4 +9,5 @@ Hier findet Ihr alle Dokumente zu den folgenden Chemie Lernfeldern:
 - [Lernfeld 8](/chemie/lernfeld_8/)
 - [Lernfeld 9](/chemie/lernfeld_9/)
 - [Lernfeld 10](/chemie/lernfeld_10/)
-- [WPF Farbstoffe](/chemie/wpf-farbstoffe/)
+- [WPF Farbstoffe](/chemie/wpf_farbstoffe/)
+

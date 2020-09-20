@@ -1,5 +1,6 @@
 {% capture document_path %}item.path contains '{{ include.dir }}'{% endcapture %}
 {% assign document_files = site.static_files | where_exp: "item", document_path %}
+{{ page.content }}
 <ul>
 {% for member in document_files %}
 {% include anja/dokument_info.html file=member %}
