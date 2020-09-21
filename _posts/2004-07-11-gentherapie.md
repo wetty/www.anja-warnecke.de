@@ -2,7 +2,8 @@
 title:  "Gentherapie"
 date:   2004-07-11 14:49:09
 categories: [Gentechnologie 10BI (Jg. 2003)]
-author: Deniz Demir und Sebastian Drehmann
+author: 
+  name: Deniz Demir und Sebastian Drehmann
 ---
 
 
@@ -43,7 +44,7 @@ Bei der Inhalationstherapie der Mukoviszidose z.B. soll mit Hilfe von viralen Ge
 
 Nach zwanzig Jahren diagnostiziert ein Arzt bei dem Sohn Dickdarmkrebs.<br />Jetzt wird das Selbstmordprogramm gestartet. Das erste Schloss wird mit einem ins Blut gespritzten Insektenhormon "geöffnet". Das zweite Schloss wird durch einen Stoff geöffnet, den ausschließlich Dickdarmzellen bilden. Das jetzt freiwerdende Gift greift alle bösartigen Dickdarmzellen an. Ehe übermäßig viele gesunde Zellen abgetötet sind, beendet der Arzt die Insektenhormonbehandlung. Die Giftproduktion endet.
 	
-**Quellen:**.   
+**Quellen:**    
 [www.lifescience.de](http://www.lifescience.de){: target="_blank" rel="noopener noreferrer nofollow"}    
 Referat über Gentechnik von Markus Manske    
 MBM + F "Biotechnologie - Basiswissen für Innovationen"

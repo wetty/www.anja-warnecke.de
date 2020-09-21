@@ -2,7 +2,8 @@
 title:  "Gentechnisch veränderte Lebensmittel"
 date:   2004-08-25 14:57:49
 categories: [Gentechnologie 10BI (Jg. 2003)]
-author: Melanie Lautenschläger
+author: 
+  name: Melanie Lautenschläger
 ---
 
 **Inhalt:**
