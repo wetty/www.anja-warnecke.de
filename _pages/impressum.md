@@ -2,6 +2,8 @@
 title: "Über mich"
 permalink: /impressum/
 description: "Alles was man über mich wissen muss."
+redirect_from:
+  - /about/
 ---
 
 Ich bin dier Autorin dieser Seiten.
