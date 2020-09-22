@@ -1,6 +1,8 @@
 ---
 title:  "Saurer Boden"
 date:   2007-01-16 09:02:09
+author: 
+  name: Anja Warnecke
 ---
 
 <p>Erwartet wurde bei der sauren Nährlösung, dass ein allemeiner Nährstoffmangel eintritt. Auch war eine Beeinträchtigung der Blätter/Wurzeln auf Grund der hohen Salzkonzentration zu erwarten.</p>

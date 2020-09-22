@@ -1,6 +1,8 @@
 ---
 title:  "Calciummangel"
 date:   2006-11-16 12:44:09
+author: 
+  name: Anja Warnecke
 ---
 
 <div>Bei der Nährlösung ohne Calcium ist das Wachstum der Pflanze gehemmt und die Blätter leiden unter Chlorose, sind welk und wellig.   
