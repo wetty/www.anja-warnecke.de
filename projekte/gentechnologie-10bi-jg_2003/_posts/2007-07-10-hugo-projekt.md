@@ -1,7 +1,6 @@
 ---
 title:  "HUGO Projekt"
 date:   2004-07-10 15:43:09
-categories: [Gentechnologie 10BI (Jg. 2003)]
 author: 
   name: Angelika Nicole Helfrich
 ---
@@ -21,7 +20,7 @@ author:
 
 <p>Im Oktober 2000 waren die kompletten Sequenzen von 7 Archae- und 31 eubakteriellen Genomen (dabei v. a. von humanpathogenen Erregern wie Mycoplasmen, Vibrio cholerae, Helicobacter und Pseudomonas) bekannt. Zur gleichen Zeit galten drei eukaryontische Genome als vollständig sequenziert: die Bäckerhefe Saccharomyces cerevisiae, der Fadenwurm Caenorhabditis elegans und die Taufliege Drosophila melanogaster. Das erste pflanzliche Genom (von der Ackerschmalwand Arabidopsis thaliana) wurde im Dezember 2000 entschlüsselt. Weitere Genome mit wissenschaftlicher (die Maus, der Kofferfisch Fugu, der Zebrafisch) oder wirtschaftlicher Bedeutung (u. a. Schwein, Rind, Mais, Reis) werden in naher Zukunft analysiert sein. Das menschliche Erbgut enthält geschätzt etwa 30000 bis 40000 Gene, die sich aus insgesamt etwa 3 Mrd. Basenpaaren zusammensetzen.<br />Eine »Rohfassung« der Entzifferung des menschlichen Genoms wurde im Juni 2000 vorgestellt, außerderm gelang mit wesentlichen deutschen Beiträgen die Sequenzierung des Chromosoms 21.</p>
 
-![img007](/assets/images/HUGO/image007.jpg){: .align-right}
+![img007](/assets/images/HUGO/image007.jpg){: .align-center}
 
 
 <p>Im Februar 2001 folgte die Veröffentlichung eines Entwurfs der fast vollständigen Sequenz des Humangenoms. Diese nun vorliegende Arbeitsversion weist noch etwa 145 000 Lücken auf, bietet aber trotzdem eine verlässliche Basis für eine erste umfassende bioinformatische Analyse der Erbinformation des Menschen. Der Fortschritt in der Genomsequenzierung wurde wesentlich durch technische und methodische Verbesserungen, v. a. durch die Entwicklung von computergestützten automatischen Sequenziermaschinen ermöglicht. Etwa 90 % der vorhandenen Daten sind zwischen 1997 und 2000 erhoben worden. Die Nukleotidsequenzen werden in umfangreichen Datenbanken gesammelt.</p>

@@ -1,7 +1,6 @@
 ---
 title:  "Pränatale Diagnostik"
 date:   2004-07-06 14:24:09
-categories: [Gentechnologie 10BI (Jg. 2003)]
 author: 
   name: Doreen Werchau und Stefanie Hartmann
 ---

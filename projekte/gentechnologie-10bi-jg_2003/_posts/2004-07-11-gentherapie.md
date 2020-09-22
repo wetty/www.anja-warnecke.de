@@ -1,7 +1,6 @@
 ---
 title:  "Gentherapie"
 date:   2004-07-11 14:49:09
-categories: [Gentechnologie 10BI (Jg. 2003)]
 author: 
   name: Deniz Demir und Sebastian Drehmann
 ---

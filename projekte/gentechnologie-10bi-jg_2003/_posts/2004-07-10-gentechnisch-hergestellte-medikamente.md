@@ -1,7 +1,6 @@
 ---
 title:  "Gentechnisch hergestellte Medikamente"
 date:   2004-07-10 18:15:09
-categories: [Gentechnologie 10BI (Jg. 2003)]
 author: 
   name: Stefanie Gaus, Christian Diebe und Hassan Daniel Tadjdar
 ---

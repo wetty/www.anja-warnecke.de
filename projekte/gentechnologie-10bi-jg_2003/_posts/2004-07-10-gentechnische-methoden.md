@@ -1,7 +1,6 @@
 ---
 title:  "Gentechnische Methoden"
 date:   2004-07-10 19:32:09
-categories: [Gentechnologie 10BI (Jg. 2003)]
 author: 
   name: Katja Wischrop und Sandra Witzel
 ---

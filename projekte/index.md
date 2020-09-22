@@ -1,12 +1,10 @@
 ---
 title: "Projekte"
 description: "Durchgeführte Projekte"
-layout: category
-taxonomy: projekt
+permalink: /projekte/
 ---
 
-- Pflanzenphysiologischer Versuch 12BI (Jg. 2004)   ( 9 Beiträge )
-- Weinprojekt 12BI (Jg. 2003)   ( 10 Beiträge )
-- Gentechnologie 10BI (Jg. 2003)   ( 9 Beiträge )
-  Projekt der 10BI (Jahrgang 2003) zum Thema Gentechnologie.
-- Projekt der 12CH (Jahrgang 2001)   ( 6 Beiträge )
+- [Pflanzenphysiologischer Versuch 12BI (Jg. 2004)](/projekte/pflanzenphysiologischer_versuch-12bi-jg_2004/)
+- [Weinprojekt 12BI (Jg. 2003)](/projekte/weinprojekt-12bi-jg_2003/)
+- [Gentechnologie 10BI (Jg. 2003)](/projekte/gentechnologie-10bi-jg_2003/)
+- [Projekt der 12CH (Jahrgang 2001)](/projekte/projekt_der_12ch-jahrgang-2001/)
