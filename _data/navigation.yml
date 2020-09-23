@@ -16,3 +16,39 @@ main:
     url: /impressum/
   - title: "Datenschutz"
     url: /datenschutzerklaerung/
+sidebar:
+  nav: "lernfelder"
+  
+lernfelder:
+  - title: Biologie
+    children:
+      - title: "Lernfeld 5"
+        url: /biologie/lernfeld_5/
+      - title: "Lernfeld 6"
+        url: /biologie/lernfeld_6/
+      - title: "Lernfeld 7"
+        url: /biologie/lernfeld_7/
+      - title: "Lernfeld 8"
+        url: /biologie/lernfeld_8/
+      - title: "Lernfeld 9"
+        url: /biologie/lernfeld_9/
+      - title: "Lernfeld 10"
+        url: /biologie/lernfeld_10/
+      - title: "Lernfeld 11"
+        url: /biologie/lernfeld_11/
+      - title: "Lernfeld 12"
+        url: /biologie/lernfeld_12/
+  - title: Chemie
+    children:
+      - title: "Lernfeld 2"
+        url: /chemie/lernfeld_2/
+      - title: "Lernfeld 4"
+        url: /chemie/lernfeld_4/
+      - title: "Lernfeld 8"
+        url: /chemie/lernfeld_8/
+      - title: "Lernfeld 9"
+        url: /chemie/lernfeld_9/
+      - title: "Lernfeld 10"
+        url: /chemie/lernfeld_10/
+      - title: "WPF Farbstoffe"
+        url: /chemie/wpf_farbstoffe/
