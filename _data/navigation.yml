@@ -8,8 +8,8 @@ main:
     url: /chemie/
   - title: "Kochen"
     url: /kochen/
-  - title: "Kunst"
-    url: /kunst/
+#  - title: "Kunst"
+#    url: /kunst/
   - title: "Projekte"
     url: /projekte/
   - title: "Impressum"
