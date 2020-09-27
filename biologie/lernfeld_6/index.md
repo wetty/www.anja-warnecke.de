@@ -2,6 +2,7 @@
 title: Lernfeld 6
 redirect_from:
   - /lernfeld_6/
+  - /lernfeld-6.html
 ---
 Hier findet Ihr alle Dokumente zum Biologie Lernfeld 6:
 

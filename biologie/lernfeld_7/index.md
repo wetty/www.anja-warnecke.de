@@ -1,5 +1,8 @@
 ---
 title: Lernfeld 7
+redirect_from:
+  - /lernfeld_7/
+  - /lernfeld-7.html
 ---
 Hier findet Ihr alle Dokumente zum Biologie Lernfeld 7:
 

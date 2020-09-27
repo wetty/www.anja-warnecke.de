@@ -1,5 +1,7 @@
 ---
 title: Biologie
+redirect_from:
+  - /biologie.html
 ---
 
 Hier findet Ihr alle Dokumente zu den folgenden Biologie Lernfeldern:

@@ -1,5 +1,8 @@
 ---
 title: Lernfeld 8
+redirect_from:
+  - /lernfeld_8/
+  - /lernfeld-8.html
 ---
 Hier findet Ihr alle Dokumente zum Biologie Lernfeld 8:
 

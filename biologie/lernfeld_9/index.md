@@ -1,5 +1,8 @@
 ---
 title: Lernfeld 9
+redirect_from:
+  - /lernfeld_9/
+  - /lernfeld-9.html
 ---
 Hier findet Ihr alle Dokumente zum Biologie Lernfeld 9:
 

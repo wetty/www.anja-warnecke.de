@@ -1,7 +1,8 @@
 ---
 title: Lernfeld 8
 redirect_from:
-  - /lernfeld_8/
+  - /chemielernfeld_8/
+  - /chemielernfeld-8.html
 ---
 Hier findet Ihr alle Dokumente zum Chemie Lernfeld 8:
 

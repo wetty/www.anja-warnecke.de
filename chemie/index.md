@@ -1,5 +1,7 @@
 ---
 title: Chemie
+redirect_from:
+  - /chemie.html
 ---
 
 Hier findet Ihr alle Dokumente zu den folgenden Chemie Lernfeldern:

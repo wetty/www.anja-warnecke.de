@@ -2,6 +2,8 @@
 title: "Projekte"
 description: "Durchgeführte Projekte"
 permalink: /projekte/
+redirect_from:
+  - /projekte.html
 ---
 
 - [Pflanzenphysiologischer Versuch 12BI (Jg. 2004)](/projekte/pflanzenphysiologischer_versuch-12bi-jg_2004/)
