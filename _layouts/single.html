@@ -31,7 +31,7 @@ layout: default
             <p class="page__meta">
               <i class="far fa-calendar-alt" aria-hidden="true"> </i> <time datetime="{{ page.date | date_to_xmlschema }}">{% include wetty/mydate.html %}</time>&nbsp;
 	          <i class="far fa-clock" aria-hidden="true"> </i> {{ page.date | date: "%R Uhr" }}&nbsp;<a href="{{ site.url }}/about/index.html" rel="author" style="text-decoration: none;">&nbsp;
-	          <i class="far fa-user" aria-hidden="true"> </i> {{ page.author.name }}</a>
+	          <i class="far fa-user" aria-hidden="true"> </i> {{ site.author.name }}</a>
           </p>
           {% endif %}
         </header>
@@ -97,4 +97,14 @@ layout: default
       </div>
     </div>
   {% endif %}
+{% if site.owner.google.ad-client %}
+<div class="archive-single__ads">
+<ins class="adsbygoogle"
+  style="display:block; border-bottom: initial;"
+  data-ad-client="{{ site.owner.google.ad-client }}"
+  data-ad-slot="{{ site.owner.google.ad-slot }}"
+  data-ad-format="horizontal"
+  data-full-width-responsive="false"></ins>
+</div>
+{% endif %}
 </div>
