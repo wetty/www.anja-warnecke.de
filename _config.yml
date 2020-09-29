@@ -114,8 +114,8 @@ owner:
 # Site Author
 author:
   name             : "Anja Warnecke"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Oberstudienrätin"
+  avatar           : "/assets/images/old_website/ChemieBiologie.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : # "Oberstudienrätin"
   location         : "Semd, Deutschland"
   email            : "anja@anja-warnecke.de"
   links:
