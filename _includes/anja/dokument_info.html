@@ -1,9 +1,9 @@
 <li>
 <b>{{ include.file.basename | replace: "_", " " }}</b><br>
+Letzte Änderung: <time datetime="{{ include.file.modified_time }}">{{ include.file.modified_time }}</time><br>
 
-Letzte Änderung: {{ include.file.modified_time }}<br>
+Anzeigen: <a href="{{ include.file.path }}"><i class="fas fa-file-pdf"></i> {{ include.file.basename | append: include.file.extname }}</a><br>
+Download: <a href="{{ include.file.path }}" download><i class="fas fa-file-pdf"></i> {{ include.file.basename | append: include.file.extname }}</a><br>
 
-Download: <a href="{{ include.file.path }}" download>{{ include.file.basename | append: include.file.extname }}</a><br>
-Anzeigen: <a href="{{ include.file.path }}">{{ include.file.basename | append: include.file.extname }}</a>
 </li>
 
