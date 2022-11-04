@@ -99,16 +99,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : UA-2881242-8
     anonymize_ip         : true # true, false (default)
 
 # Site owner
 owner:
-  google:
-    ad-client: ca-pub-7756413429414204
-    ad-slot: 4595760618
+#  google:
+#    ad-client: ca-pub-7756413429414204
+#    ad-slot: 4595760618
 
 
 # Site Author
